@@ -19,7 +19,7 @@ Usage:
 ```bash
 $ ./urlShort -pathsFile=yourfile.yaml||json
 ```
-```
+
 Then use your browser to navigate to http://localhost/yourpath - You should get redirected!
 
 
