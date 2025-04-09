@@ -1,0 +1,6 @@
+- path: /payloads
+  url: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+- path: /exploits
+  url: https://www.exploit-db.com
+- path: /typing-practice
+  url: https://www.keybr.com
